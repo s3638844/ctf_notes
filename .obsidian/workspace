@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "smbclient cheat sheet 202105221408.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3bb60e3ae88cf54d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/note template.md",
+            "file": "Daily Notes TOC.md",
             "mode": "source"
           }
         }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/note template.md",
+                "file": "Daily Notes TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/note template.md"
+                "file": "Daily Notes TOC.md"
               }
             }
           },
@@ -134,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3bb60e3ae88cf54d",
+  "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "templates/daily note template.md",
+    "smbclient cheat sheet 202105221408.md",
+    "2021-05-22.md",
+    "templates/note template.md",
     "templates/base template.md",
     "test unet.md",
     "index.md",
-    "Untitled.md",
     "202105221048.md",
-    "smbclien cheat sheet 202105221408.md",
-    "202105221408.md",
-    "Walkthrough PDF's/Archetype.pdf",
-    "2021-05-22.md",
-    "nmap.md"
+    "smbclien cheat sheet 202105221408.md"
   ]
 }
