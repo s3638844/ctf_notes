@@ -7,10 +7,9 @@
         "id": "b0cf11cd9552b0c4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "202105221048.md",
-            "mode": "source"
+            "file": "Walkthrough PDF's/Archetype.pdf"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202105221048.md",
+                "file": "Walkthrough PDF's/Archetype.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202105221048.md"
+                "file": "Walkthrough PDF's/Archetype.pdf"
               }
             }
           },
@@ -125,6 +124,7 @@
   },
   "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
+    "Walkthrough PDF's/Archetype.pdf",
     "202105221048.md",
     "index.md",
     "Untitled.md"
