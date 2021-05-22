@@ -1,10 +1,10 @@
 tags: #htb #nmap #enumeration
-links: [[index]]
+links: [[index]], [[smbclient cheat sheet 202105221408|smbclient cheat sheet]]
 source: [nmap cheat sheet](https://www.stationx.net/nmap-cheat-sheet/)
 
 ---
 
-# nmap 
+# nmap cheat sheet
 
 ## CLI examples
 

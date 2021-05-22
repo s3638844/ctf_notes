@@ -3,4 +3,4 @@
 ## Red Team/CTF notes
 
 ### Tooling
-[[202105221048 | nmap]]
+[[nmap cheat sheet 202105221048 | nmap]]
