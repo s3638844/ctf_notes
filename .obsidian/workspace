@@ -7,6 +7,17 @@
         "id": "b0cf11cd9552b0c4",
         "type": "leaf",
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTB archetype 202105221559.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9f4e66b35f4aed11",
+        "type": "leaf",
+        "state": {
           "type": "pdf",
           "state": {
             "file": "Walkthrough PDF's/Archetype.pdf"
@@ -75,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough PDF's/Archetype.pdf",
+                "file": "HTB archetype 202105221559.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough PDF's/Archetype.pdf"
+                "file": "HTB archetype 202105221559.md"
               }
             }
           },
@@ -125,8 +136,8 @@
   },
   "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
-    "Walkthrough PDF's/Archetype.pdf",
     "HTB archetype 202105221559.md",
+    "Walkthrough PDF's/Archetype.pdf",
     "templates/note template.md",
     "2021-05-22.md",
     "Daily Notes TOC.md",
