@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "smbclient cheat sheet 202105221408.md",
+            "file": "nmap.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smbclient cheat sheet 202105221408.md",
+                "file": "nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "smbclient cheat sheet 202105221408.md"
+                "file": "nmap.md"
               }
             }
           },
@@ -125,6 +125,7 @@
   },
   "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
+    "nmap.md",
     "smbclient cheat sheet 202105221408.md",
     "nmap cheat sheet 202105221048.md",
     "index.md",
@@ -133,7 +134,6 @@
     "2021-05-22.md",
     "Untitled.md",
     "templates/note template.md",
-    "templates/base template.md",
-    "test unet.md"
+    "templates/base template.md"
   ]
 }
