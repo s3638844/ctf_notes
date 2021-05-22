@@ -107,13 +107,21 @@
                 "file": "202105221048.md"
               }
             }
+          },
+          {
+            "id": "6452974871d16f05",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
