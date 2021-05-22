@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "202105221048.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -126,8 +126,8 @@
   "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
     "202105221048.md",
-    "Walkthrough PDF's/Archetype.pdf",
     "2021-05-22.md",
+    "Walkthrough PDF's/Archetype.pdf",
     "nmap.md",
     "index.md",
     "Untitled.md"

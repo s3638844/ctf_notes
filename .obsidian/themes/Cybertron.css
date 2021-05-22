@@ -32,8 +32,8 @@
   --background-modifier-border: #595959; /*595959*/
   --blockquote-border: #9e8aff;
   --interactive-accent-rgb: #fe8019;
-  --font-family-editor: Avenir, Avenir Next, var(--default-font), sans-serif;
-  --font-family-preview: Avenir, Avenir Next, var(--default-font), sans-serif;
+  --font-family-editor: Hasklig, Avenir, Avenir Next, var(--default-font), sans-serif;
+  --font-family-preview: Hasklig, Avenir, Avenir Next, var(--default-font), sans-serif;
   --scrollbar-bg: rgb(20, 20, 20, 0.0);
   --scrollbar-thumb-bg: #595959;
   --background-modifier-error: #36393f;
