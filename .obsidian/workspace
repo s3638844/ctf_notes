@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/base template.md",
+            "file": "templates/note template.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/base template.md",
+                "file": "templates/note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/base template.md"
+                "file": "templates/note template.md"
               }
             }
           },
@@ -136,13 +136,15 @@
   },
   "active": "3bb60e3ae88cf54d",
   "lastOpenFiles": [
+    "templates/base template.md",
+    "test unet.md",
+    "index.md",
     "Untitled.md",
     "202105221048.md",
     "smbclien cheat sheet 202105221408.md",
     "202105221408.md",
     "Walkthrough PDF's/Archetype.pdf",
     "2021-05-22.md",
-    "nmap.md",
-    "index.md"
+    "nmap.md"
   ]
 }
