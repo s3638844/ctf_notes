@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/daily note template.md",
-            "mode": "source"
+            "file": "smbclient cheat sheet 202105221408.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/daily note template.md",
+                "file": "smbclient cheat sheet 202105221408.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/daily note template.md"
+                "file": "smbclient cheat sheet 202105221408.md"
               }
             }
           },
@@ -125,15 +125,15 @@
   },
   "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
+    "smbclient cheat sheet 202105221408.md",
+    "nmap cheat sheet 202105221048.md",
+    "index.md",
+    "Walkthrough PDF's/Archetype.pdf",
     "templates/daily note template.md",
     "2021-05-22.md",
-    "Walkthrough PDF's/Archetype.pdf",
     "Untitled.md",
-    "smbclient cheat sheet 202105221408.md",
     "templates/note template.md",
     "templates/base template.md",
-    "test unet.md",
-    "index.md",
-    "202105221048.md"
+    "test unet.md"
   ]
 }
