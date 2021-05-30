@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "impacket 202105301607.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           }
@@ -154,15 +154,15 @@
   },
   "active": "7a28a319e9e0019b",
   "lastOpenFiles": [
+    "impacket 202105301607.md",
+    "HTB archetype 202105221559.md",
     "202105301607.md",
     "index.md",
-    "HTB archetype 202105221559.md",
     "Walkthrough PDF's/Archetype.pdf",
     "2021-05-30.md",
     "202105301553.md",
     "test unet.md",
     "smbclient cheat sheet 202105221408.md",
-    "nmap cheat sheet 202105221048.md",
-    "2021-05-22.md"
+    "nmap cheat sheet 202105221048.md"
   ]
 }
