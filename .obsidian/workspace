@@ -7,22 +7,40 @@
         "id": "9f4e66b35f4aed11",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-05-30.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "8e6a9e3df2f89836",
-        "type": "leaf",
-        "state": {
           "type": "pdf",
           "state": {
             "file": "Walkthrough PDF's/Archetype.pdf"
           }
         }
+      },
+      {
+        "id": "01adb54dd178832a",
+        "type": "split",
+        "children": [
+          {
+            "id": "8e6a9e3df2f89836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB archetype 202105221559.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "7a28a319e9e0019b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "impacket 202105301607.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough PDF's/Archetype.pdf",
+                "file": "impacket 202105301607.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough PDF's/Archetype.pdf"
+                "file": "impacket 202105301607.md"
               }
             }
           },
@@ -134,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e6a9e3df2f89836",
+  "active": "7a28a319e9e0019b",
   "lastOpenFiles": [
+    "202105301607.md",
+    "index.md",
+    "HTB archetype 202105221559.md",
     "Walkthrough PDF's/Archetype.pdf",
     "2021-05-30.md",
     "202105301553.md",
     "test unet.md",
     "smbclient cheat sheet 202105221408.md",
     "nmap cheat sheet 202105221048.md",
-    "HTB archetype 202105221559.md",
-    "2021-05-22.md",
-    "Daily Notes TOC.md",
-    "templates/note template.md"
+    "2021-05-22.md"
   ]
 }
