@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b0cf11cd9552b0c4",
+        "id": "9f4e66b35f4aed11",
         "type": "leaf",
-        "dimension": 36.845549738219894,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2021-05-30.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9f4e66b35f4aed11",
-        "type": "leaf",
-        "dimension": 63.154450261780106,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Walkthrough PDF's/Archetype.pdf"
           }
         }
       }
@@ -136,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0cf11cd9552b0c4",
+  "active": "9f4e66b35f4aed11",
   "lastOpenFiles": [
     "2021-05-30.md",
+    "202105301553.md",
+    "test unet.md",
+    "smbclient cheat sheet 202105221408.md",
+    "nmap cheat sheet 202105221048.md",
     "HTB archetype 202105221559.md",
     "Walkthrough PDF's/Archetype.pdf",
-    "templates/note template.md",
     "2021-05-22.md",
     "Daily Notes TOC.md",
-    "archetype.md",
-    "202105221559.md",
-    "smbclient cheat sheet 202105221408.md",
-    "templates/daily note template.md"
+    "templates/note template.md"
   ]
 }
