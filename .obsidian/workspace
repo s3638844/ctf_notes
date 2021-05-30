@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTB archetype 202105221559.md",
+            "file": "2021-05-30.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB archetype 202105221559.md",
+                "file": "2021-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB archetype 202105221559.md"
+                "file": "2021-05-30.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "b0cf11cd9552b0c4",
   "lastOpenFiles": [
+    "2021-05-30.md",
     "HTB archetype 202105221559.md",
     "Walkthrough PDF's/Archetype.pdf",
     "templates/note template.md",
@@ -146,7 +147,6 @@
     "archetype.md",
     "202105221559.md",
     "smbclient cheat sheet 202105221408.md",
-    "templates/daily note template.md",
-    "test unet.md"
+    "templates/daily note template.md"
   ]
 }
