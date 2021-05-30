@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "8e6a9e3df2f89836",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Walkthrough PDF's/Archetype.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-30.md",
+                "file": "Walkthrough PDF's/Archetype.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-05-30.md"
+                "file": "Walkthrough PDF's/Archetype.pdf"
               }
             }
           },
@@ -124,15 +134,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f4e66b35f4aed11",
+  "active": "8e6a9e3df2f89836",
   "lastOpenFiles": [
+    "Walkthrough PDF's/Archetype.pdf",
     "2021-05-30.md",
     "202105301553.md",
     "test unet.md",
     "smbclient cheat sheet 202105221408.md",
     "nmap cheat sheet 202105221048.md",
     "HTB archetype 202105221559.md",
-    "Walkthrough PDF's/Archetype.pdf",
     "2021-05-22.md",
     "Daily Notes TOC.md",
     "templates/note template.md"
